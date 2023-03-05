@@ -1,4 +1,4 @@
-# Game-for-peace-For-hacker-
+# Game-for-peace-For-hacker
 使用于和平精英国服
 功能：除草
 支持雨林-山谷-海岛-度假岛
